@@ -29,7 +29,7 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Live Site URL: [BLOGR](https://enu-blogr.netlify.app/)
+- Live Site URL: [BLOGR](https://enu-blogr.netlify.app))
 
 ## My process
 
